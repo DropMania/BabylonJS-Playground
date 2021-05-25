@@ -1,3 +1,3 @@
-# Phaser-Playground
+# BabylonJS-Playground
 
-I will just test Phaser.io in this repo. This will probably be nothing special
+I will just test Babylon.js game engine in this repo. This will probably be nothing special
